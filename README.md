@@ -1,10 +1,7 @@
 ### Hi there 👋
 
-![Alt Text](https://raw.githubusercontent.com/thehackingsage/thehackingsage/master/hello%2Cworld!.gif)
 
-
-
-Here are some ideas to get you started:
+<img src="https://raw.githubusercontent.com/thehackingsage/thehackingsage/master/hello%2Cworld!.gif"/>
 
 - 🌱 I’m currently learning Batch Scripting
 - 🤔 I’m looking for help with Php
