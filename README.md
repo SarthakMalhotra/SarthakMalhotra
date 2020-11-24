@@ -7,4 +7,4 @@
 - 🤔 I’m looking for help with Php
 - 💬 Ask me about Hacking !
 - 📫 How to reach me: telegram.me/HackerSarthak
-- ⚡ Fun fact: I m Not Noob
+- ⚡ Fun fact: I m Noob
