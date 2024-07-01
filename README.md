@@ -9,8 +9,8 @@ I'm Sarthak Malhotra, a curious high school sophomore from Delhi, India, with a 
 My Skills.
 
 
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-<img src="{BadgeURLHere}" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+
 <img src="{BadgeURLHere}" />
 <img src="{BadgeURLHere}" />
 <img src="{BadgeURLHere}" />
