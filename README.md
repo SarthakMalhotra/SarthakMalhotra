@@ -8,6 +8,7 @@ Currently Enrolled for a Computer Science Research Program, Looking forward for 
 - 🤔 I’m looking for help with Archlinux.
 - 💬 Tell me a cool techie fact.
 
+<img src="https://github-readme-stats.vercel.app/api?username=sarthakmalhotra&theme=blue-green" />
 My Skills.
 
 
