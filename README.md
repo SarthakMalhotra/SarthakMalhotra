@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello There,
 
 
 <img src="https://raw.githubusercontent.com/thehackingsage/thehackingsage/master/hello%2Cworld!.gif"/>
@@ -8,3 +8,5 @@
 - 💬 Ask me about Hacking !
 - 📫 How to reach me: telegram.me/HackerSarthak
 - ⚡ Fun fact: I m Noob
+
+![](https://dcbadge.limes.pink/api/shield/USERID)
