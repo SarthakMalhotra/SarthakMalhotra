@@ -9,4 +9,4 @@
 - 📫 How to reach me: telegram.me/HackerSarthak
 - ⚡ Fun fact: I m Noob
 
-![](https://dcbadge.limes.pink/api/shield/USERID)
+![](https://dcbadge.limes.pink/api/shield/sarthaksme)
