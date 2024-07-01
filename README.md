@@ -4,9 +4,9 @@ I'm Sarthak Malhotra, a curious high school sophomore from Delhi, India, with a 
 
 Currently Enrolled for a Computer Science Research Program, Looking forward for more Opportunities this Summer.
 
-- 🌱 I’m currently advancing in python
-- 🤔 I’m looking for help with archlinux.
-- 💬 tell me a cool techie fact.
+- 🌱 I’m currently advancing in Python
+- 🤔 I’m looking for help with Archlinux.
+- 💬 Tell me a cool techie fact.
 
 My Skills.
 
